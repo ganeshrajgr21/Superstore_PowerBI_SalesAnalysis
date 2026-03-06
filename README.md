@@ -1,10 +1,11 @@
  Power BI Superstore Sales Analysis Dashboard
-Project Overview
+ Project Overview
 
 This project focuses on analyzing Superstore sales data to uncover insights about sales performance, profitability, customer segments, and regional performance.
 The dashboard was created using Power BI, starting from data extraction from Kaggle to data cleaning, transformation, modeling, and visualization.
 
  Step-by-Step Project Process
+ 
 1️⃣ Data Extraction from Kaggle
 
 Visited Kaggle website and searched for Superstore Sales Dataset.
