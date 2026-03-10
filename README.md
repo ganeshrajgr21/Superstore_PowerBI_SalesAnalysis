@@ -5,28 +5,20 @@ This project focuses on analyzing Superstore sales data to uncover insights abou
 The dashboard was created using Power BI, starting from data extraction from Kaggle to data cleaning, transformation, modeling, and visualization.
 
 🚀 Step-by-Step Project Process
+
 1️⃣ Data Extraction from Kaggle
 
 Visited Kaggle website and searched for Superstore Sales Dataset.
-
 Downloaded the dataset in CSV format.
-
 Extracted the ZIP file into a local system.
 
 Verified dataset columns such as:
-
 Order Date
-
 Sales
-
 Profit
-
 Category
-
 Sub-Category
-
 Region
-
 Segment
 
 2️⃣ Loading Data into Power BI
@@ -130,6 +122,7 @@ Shows the net profit generated from sales.
 Helps evaluate financial success.
 
 📈 Data Visualizations and Insights
+
 6️⃣ Line Chart – Sales Trend by Month/Year
 
 Used to track sales performance over time.
